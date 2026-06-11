@@ -1,3 +1,4 @@
+import os
 from datetime import datetime
 
 def generate_log(data):
